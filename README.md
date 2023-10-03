@@ -3,6 +3,7 @@ Interessted in many aspects of programming, e.g.
 - C# in general, - JavaScript using node.js, Browserify, ...
 
 Studying Digital Games at Cologne Game Lab / TH Cologne.
+
 Work experience as full stack developer.
 
 ... more coming later.

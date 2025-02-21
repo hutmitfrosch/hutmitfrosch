@@ -1,6 +1,8 @@
 Interessted in many aspects of programming, e.g.
 - Game Development (mainly Unity)
-- C# in general, - JavaScript using node.js, Browserify, ...
+- C# in general,
+- JavaScript using node.js,
+- ...
 
 Studying Digital Games at Cologne Game Lab / TH Cologne.
 
